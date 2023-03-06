@@ -2,7 +2,7 @@
 ### Nathan Groves
 ### Description:
 
-This program reads in data from json file into AVL trees and linked lists to compare search complexity time with each other.
+This program reads in data from a json file into AVL trees and linked lists to compare search complexity times with each other. Primarily, this is to showcase and print the superior O(log n) search comparisons and times of AVL trees.
 
 ### Files
 
