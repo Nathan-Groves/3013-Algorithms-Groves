@@ -1,0 +1,48 @@
+Found 430 after 9 comparisons using an AVL tree
+time to search was 0.00029529 seconds
+
+Found 430 after 430 comparisons using a Linked List
+time to search was 0.000158729 seconds
+
+Found Rebekah after 9 comparisons using an AVL tree
+time to search was 2.576e-05 seconds
+
+Found Rebekah after 451 comparisons using a Linked List
+time to search was 5.2269e-05 seconds
+
+Found Roanoke after 7 comparisons using an AVL tree
+time to search was 2.231e-05 seconds
+
+Found Roanoke after 40 comparisons using a Linked List
+time to search was 2.2589e-05 seconds
+
+Found mmatchellkw@liveinternet.ru after 8 comparisons using an AVL tree
+time to search was 9.6401e-05 seconds
+
+Found mmatchellkw@liveinternet.ru after 753 comparisons using a Linked List
+time to search was 0.00011538 seconds
+
+Found 039 Dryden Pass after 10 comparisons using an AVL tree
+time to search was 2.409e-05 seconds
+
+Found 039 Dryden Pass after 1000 comparisons using a Linked List
+time to search was 0.000122571 seconds
+
+Found NE after 8 comparisons using an AVL tree
+time to search was 2.684e-05 seconds
+
+Found NE after 215 comparisons using a Linked List
+time to search was 4.107e-05 seconds
+
+Found GMC after 4 comparisons using an AVL tree
+time to search was 1.9629e-05 seconds
+
+Found GMC after 10 comparisons using a Linked List
+time to search was 2.5949e-05 seconds
+
+Found VP Marketing after 9 comparisons using an AVL tree
+time to search was 2.973e-05 seconds
+
+Found VP Marketing after 292 comparisons using a Linked List
+time to search was 5.524e-05 seconds
+
