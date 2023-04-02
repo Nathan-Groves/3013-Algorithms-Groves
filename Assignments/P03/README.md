@@ -15,7 +15,7 @@ This program reads in string data from a json file into a trie, after which the 
 |   6   | JsonFacade.hpp | facade pattern to simplify json.hpp |
 |   7   | mygetch.hpp | getch implementation to fetch user input |
 |   8   | termcolor.hpp | character color implementation to highlight parts of words |
-|   9   | json.hpp  | nlohmann json definitions |
+|   9   | json.hpp  | json library definitions |
 
 
 
