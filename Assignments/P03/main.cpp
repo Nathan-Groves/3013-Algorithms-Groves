@@ -38,13 +38,6 @@ using json = nlohmann::json;
 
 int main(){
 
-  // string animal = "elephant";
-
-  // string animalPart = animal.substr(4, 7);
-
-  // cout << animalPart;
-  
-
   
 
   char k;
