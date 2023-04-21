@@ -3,7 +3,7 @@
 ### Nathan Groves
 ### Description:
 
-Powerpoint presentation that provides an overview for the Egyptian Fraction Algorithm as well as some examples of the algorithm working.
+Powerpoint presentation that provides an overview for the Egyptian Fraction algorithm as well as some examples of the algorithm working.
 
 ### Files
 
